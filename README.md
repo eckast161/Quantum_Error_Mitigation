@@ -1,2 +1,2 @@
 # Quantum Error Mitigation
-Summarizes the calibration matrices required to perform a quantum mitigation error 
+Summarizes the calibration matrices required to perform quantum mitigation error protocols.
